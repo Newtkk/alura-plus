@@ -140,7 +140,7 @@ body {
 }
 
 .lista__link a:hover {
-    color: var(--cinza-secundario);
+    color: blue;
 }
 
 .container__botao:hover {
