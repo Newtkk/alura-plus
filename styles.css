@@ -142,3 +142,7 @@ body {
 .lista__link a:hover {
     color: var(--cinza-secundario);
 }
+
+.container__botao:hover {
+    background-color: darkblue;
+}
