@@ -164,6 +164,7 @@ body {
 
     .secundario {
         text-align: center;
+        margin: 0 1em;
     }
 
     .secundario__imagem {
